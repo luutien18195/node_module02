@@ -1,0 +1,19 @@
+{
+  "name": "node_module02",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luutien18195/node_module02.git"
+  },
+  "author": "Luu Tien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luutien18195/node_module02/issues"
+  },
+  "homepage": "https://github.com/luutien18195/node_module02#readme"
+}
